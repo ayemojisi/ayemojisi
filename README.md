@@ -11,14 +11,14 @@
 
 ## C0MM0N-CORE 🦠
 | Hayır | Proje | Hayır | Proje | Hayır | Proje | Hayır | Proje | - | Sınavlar |
-| :-: | :-------------------------------------------- | :-: | :-------------------------------------------- | :-: | :-------------------------------------------- | :-: | :-------------------------------------------- | :-: | :-------------------------------------------- |
-| 1 | [Libft](../../../Common-Core/tree/main/Libft) | 8 | [Filozoflar](../../../Common-Core/tree/main/Filozoflar ) | 15 | [CPP03](../../../CPP-Modülleri/ağaç/ana/CPP03) | 22 | Ft_irc | - | [Sınav-2](../../../Ortak Çekirdek/ağaç/main/Sınav-2) |
-| 2 | [Ft_printf](../../../Common-Core/tree/main/ft_printf)| 9 | [Minishell](../../../Common-Core/tree/main/Minishell) | 16 | [CPP04](../../../CPP-Modülleri/ağaç/ana/CPP04) | 23 | başlangıç ​​| - | [Sınav-3](../../../Ortak çekirdek/ağaç/main/Sınav-3) |
-| 3 | [Get_next_line](../../../Common-Core/tree/main/get_next_line) | 10 | [NetPractice](../../../Common-Core/tree/main/NetPractice) | 17 | [CPP05](../../../CPP-Modülleri/ağaç/ana/CPP05) | 24 | ft_transcendence | - | [Sınav-4](../../../Ortak Çekirdek/ağaç/main/Sınav-4) |
-| 4 | [Born2beroot](../../../Common-Core/tree/main/Born2beroot) | 11 | [Cub3d](../../../Common-Core/tree/main/Cub3d) | 18 | [CPP06](../../../CPP-Modülleri/ağaç/ana/CPP06) | - | - | - | Sınav-5 |
-| 5 | [Yakın_uzun](../../../Ortak Çekirdek/ağaç/main/Yakın_uzun) | 12 | [CPP00](../../../CPP-Modülleri/ağaç/ana/CPP00) | 19 | [CPP07](../../../CPP-Modülleri/ağaç/ana/CPP07) | - | - | - | Sınav-6 |
-| 6 | [Minitalk](../../../Common-Core/tree/main/Minitalk) | 13 | [CPP01](../../../CPP-Modülleri/ağaç/ana/CPP01) | 20 | [CPP08](../../../CPP-Modülleri/ağaç/ana/CPP08) | - | - | - | - |
-| 7 | [Push_wap](../../../Common-Core/tree/main/Push_swap) | 14 | [CPP02](../../../CPP-Modülleri/ağaç/ana/CPP02) | 21 | CPP09 | - | - | - | - |
+| :-: | :-------------------------------------------- | :-: | :-------------------------------------------- | :-: |
+| 1 | [Libft](../../../Common-Core/tree/main/Libft) | 8 | [Filozoflar](../../../Common-Core/tree/main/Filozoflar ) |
+| 2 | [Ft_printf](../../../Common-Core/tree/main/ft_printf)|
+| 3 | [Get_next_line](../../../Common-Core/tree/main/get_next_line) | 
+| 4 | [Born2beroot](../../../Common-Core/tree/main/Born2beroot) |
+| 5 | [Yakın_uzun](../../../Ortak Çekirdek/ağaç/main/Yakın_uzun) |
+| 6 | [Minitalk](../../../Common-Core/tree/main/Minitalk) |
+| 7 | [Push_wap](../../../Common-Core/tree/main/Push_swap) |
 
 
 <!--
