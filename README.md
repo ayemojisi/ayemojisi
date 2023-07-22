@@ -10,13 +10,13 @@
 -->
 
 ## C0MM0N-CORE 🦠
-| Hayır | Proje|
+| No | Proje|
 | :-: | :-------------------------------------------- |
 | 1 | [Libft](../../../Common-Core/tree/main/Libft) |
 | 2 | [Ft_printf](../../../Common-Core/tree/main/ft_printf)|
 | 3 | [Get_next_line](../../../Common-Core/tree/main/get_next_line) | 
 | 4 | [Born2beroot](../../../Common-Core/tree/main/Born2beroot) |
-| 5 | [Yakın_uzun](../../../Ortak Çekirdek/ağaç/main/Yakın_uzun) |
+| 5 | [So_long](../../../Common-Core/tree/main/So_long) ) |
 | 6 | [Minitalk](../../../Common-Core/tree/main/Minitalk) |
 | 7 | [Push_wap](../../../Common-Core/tree/main/Push_swap) |
 | 8 | [Filozoflar](../../../Common-Core/tree/main/Filozoflar )
