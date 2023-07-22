@@ -11,7 +11,7 @@
 
 ## C0MM0N-CORE 🦠
 | Hayır | Proje|
-| :-: | :-------------------------------------------- | :-: | :-------------------------------------------- | :-: |
+| :-: | :-------------------------------------------- |
 | 1 | [Libft](../../../Common-Core/tree/main/Libft) |
 | 2 | [Ft_printf](../../../Common-Core/tree/main/ft_printf)|
 | 3 | [Get_next_line](../../../Common-Core/tree/main/get_next_line) | 
