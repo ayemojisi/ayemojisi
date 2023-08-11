@@ -1,16 +1,14 @@
 ### 🦠Merhaba sayfama hoşgeldiniz🦠
 
-![faruk0-gif](https://tenor.com/tr/view/hacker-gif-26522638)
+![faruk0-gif](/imgs/background.gif)
 <!--
-![faruk2-gif](https://tenor.com/tr/view/hacker-gif-26522638)
-![faruk3-gif](https://tenor.com/tr/view/hacker-gif-26522638)
 -->
 <!--
 --------------------------
 -->
 
 ## C0MM0N-CORE 🦠
-| No | Proje|
+| No | Proje|.ç
 | :-: | :-------------------------------------------- |
 | 1 | [Libft](../../../Common-Core/tree/main/Libft) |
 | 2 | [Ft_printf](../../../Common-Core/tree/main/ft_printf)|
