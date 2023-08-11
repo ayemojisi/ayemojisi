@@ -45,11 +45,11 @@
 -->
 
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukdll&show_icons=true&locale=en&layout=compact" alt="farukdll" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukdll&show_icons=true&locale=en&layout=compact" alt="ayemoji" /></p>
 
-[![Apoorv'un github && 42 istatistikleri](https://github-readme-stats.vercel.app/api?username=farukdll&cardType=github&theme=vision-friendly-dark)](https://github.com/farukdll)
+[![Apoorv'un github && 42 istatistikleri](https://github-readme-stats.vercel.app/api?username=ayemoji&cardType=github&theme=vision-friendly-dark)](https://github.com/ayemoji)
 
-[![Apoorv'un github && 42 istatistikleri](https://github-readme-stats.vercel.app/api?username=farukdll&cardType=github&theme=outrun)](https://github.com/farukdll)
+[![Apoorv'un github && 42 istatistikleri](https://github-readme-stats.vercel.app/api?username=ayemoji&cardType=github&theme=outrun)](https://github.com/ayemoji)
 
-[![Apoorv'un github && 42 istatistikleri](https://github-readme-stats.vercel.app/api?username=farukdll&cardType=github&theme=great-gatsby)](https://github.com/farukdll)
+[![Apoorv'un github && 42 istatistikleri](https://github-readme-stats.vercel.app/api?username=ayemoji&cardType=github&theme=great-gatsby)](https://github.com/ayemoji)
 -->
