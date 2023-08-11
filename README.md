@@ -1,6 +1,6 @@
 ### 🦠Merhaba sayfama hoşgeldiniz🦠
 
-![faruk0-gif](/serkan.gif)
+![faruk0-gif](serkan.gif)
 <!--
 -->
 <!--
