@@ -1,9 +1,9 @@
 ### 🦠Merhaba sayfama hoşgeldiniz🦠
 
-![faruk0-gif](faruk0.gif)
+![faruk0-gif](https://tenor.com/tr/view/hacker-gif-26522638)
 <!--
-![faruk2-gif](faruk2.gif)
-![faruk3-gif](faruk3.gif)
+![faruk2-gif](https://tenor.com/tr/view/hacker-gif-26522638)
+![faruk3-gif](https://tenor.com/tr/view/hacker-gif-26522638)
 -->
 <!--
 --------------------------
