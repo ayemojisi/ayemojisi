@@ -41,7 +41,7 @@
 
 
 <!--
-![Ziyaretçi Rozeti](https://visitor-badge.laobi.icu/badge?page_id=farukdll.farukdll)
+![Ziyaretçi Rozeti](https://visitor-badge.laobi.icu/badge?page_id=ayemoji.ayemoji)
 -->
 
 <!--
