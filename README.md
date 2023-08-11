@@ -20,7 +20,7 @@
 | 8 | [Filozoflar](../../../Common-Core/tree/main/Filozoflar ) |
 
 <!--
-[![Apoorv'un github && 42 istatistikleri](https://github-readme-stats-sigma-five.vercel.app/api?username=farukdll&show_icons=github&theme=vision-friendly-dark)](https://github.com/farukdll)
+[![Apoorv'un github && 42 istatistikleri](https://github-readme-stats-sigma-five.vercel.app/api?username=ayemoji&show_icons=github&theme=vision-friendly-dark)](https://github.com/ayemoji)
 -->
 
 [![Apoorv'un github && 42 istatistikleri](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farukdll&layout=compact&theme=vision-friendly-dark)](https://github.com/farukdll)
