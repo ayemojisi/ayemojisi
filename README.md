@@ -45,7 +45,7 @@
 -->
 
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukdll&show_icons=true&locale=en&layout=compact" alt="ayemoji" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayemoji&show_icons=true&locale=en&layout=compact" alt="ayemoji" /></p>
 
 [![Apoorv'un github && 42 istatistikleri](https://github-readme-stats.vercel.app/api?username=ayemoji&cardType=github&theme=vision-friendly-dark)](https://github.com/ayemoji)
 
