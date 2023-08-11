@@ -8,7 +8,7 @@
 -->
 
 ## C0MM0N-CORE 🦠
-| No | Proje|.ç
+| No | Proje|
 | :-: | :-------------------------------------------- |
 | 1 | [Libft](../../../Common-Core/tree/main/Libft) |
 | 2 | [Ft_printf](../../../Common-Core/tree/main/ft_printf) |
