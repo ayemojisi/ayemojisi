@@ -18,6 +18,7 @@
 | 6 | [Minitalk](../../../Common-Core/tree/main/Minitalk) |
 | 7 | [Push_wap](../../../Common-Core/tree/main/Push_swap) |
 | 8 | [Filozoflar](../../../Common-Core/tree/main/Filozoflar ) |
+| 9 | [ExamRank02](../../../Common-Core/tree/main/Filozoflar ) |
 
 <!--
 [![Apoorv'un github && 42 istatistikleri](https://github-readme-stats-sigma-five.vercel.app/api?username=ayemoji&show_icons=github&theme=vision-friendly-dark)](https://github.com/ayemoji)
