@@ -54,3 +54,13 @@
 
 [![Apoorv'un github && 42 istatistikleri](https://github-readme-stats.vercel.app/api?username=ayemoji&cardType=github&theme=great-gatsby)](https://github.com/ayemoji)
 -->
+
+## Flappy Bird
+Bu repoda basit bir **Flappy Bird** oyunu bulunmaktadır. Calistirmak icin:
+
+```bash
+pip install pygame
+python3 flappy_bird.py
+```
+
+Oyunu kapatmak icin pencereyi kapatabilir veya `ESC` tusuna basabilirsiniz.
